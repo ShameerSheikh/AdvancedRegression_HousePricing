@@ -28,4 +28,4 @@ The solution is divided into the following sections:
 4. Model building and evaluation
 5. Observation and inference
 
-# Student Name: Shameer Sheik, 
+#### Student Name: Shameer Sheik
